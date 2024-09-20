@@ -1,0 +1,102 @@
+[
+	{
+		"name": "Heavy Charge",
+		"uniques": ["[+25]% Strength <when attacking>"]
+	},
+	{
+		"name": "Buffalo Horns",
+		"uniques": ["[+1] Movement","[+10]% Strength <when defending> <vs [Ranged] units>","[+25]% to Flank Attack bonuses"],
+	},
+	{
+		"name": "Buffalo Chest",
+		"uniques": ["[+10]% Strength <when fighting in [Open terrain] tiles>","[+10]% Strength <when defending> <vs [Ranged] units>","[+25]% to Flank Attack bonuses"],
+		"prerequisites": ["Buffalo Horns"],
+		"unitTypes": ["Sword","Gunpowder"]
+	},
+	{
+		"name": "Buffalo Loins",
+		"uniques": ["[+15]% Strength","[+10]% Strength <when defending> <vs [Ranged] units>","[+25]% to Flank Attack bonuses"],
+		"prerequisites": ["Buffalo Chest"],
+		"unitTypes": ["Sword","Gunpowder"]
+	},
+	{
+		"name": "Mystic Blade", // only for Kris Swordsman and subsequent upgrades
+		"uniques": ["Access to special promotions"]
+	},
+	{
+		"name": "Invulnerability",
+		"uniques": ["[+50]% Strength <when defending>", "[+20] HP when healing","Only available <for units without [Ambition]>","Only available <for units without [Restlessness]>","Only available <for units without [Heroism]>","Only available <for units without [Sneak Attack]>"],
+		"prerequisites": ["Mystic Blade"],
+		"unitTypes": ["Sword","Gunpowder"]
+	},
+	{
+		"name": "Sneak Attack",
+		"uniques": ["[+50]% to Flank Attack bonuses","Only available <for units without [Ambition]>","Only available <for units without [Restlessness]>","Only available <for units without [Heroism]>","Only available <for units without [Invulnerability]>"],
+		"prerequisites": ["Mystic Blade"],
+		"unitTypes": ["Sword","Gunpowder"]
+	},
+	{
+		"name": "Restlessness",
+		"uniques": ["[1] additional attacks per turn","[+1] Movement","Only available <for units without [Ambition]>","Only available <for units without [Heroism]>","Only available <for units without [Sneak Attack]>","Only available <for units without [Invulnerability]>"],
+		"prerequisites": ["Mystic Blade"],
+		"unitTypes": ["Sword","Gunpowder"]
+	},
+		{
+		"name": "Heroism",
+		"uniques": ["[+15]% Strength bonus for [Military] units within [2] tiles","Only available <for units without [Ambition]>","Only available <for units without [Restlessness]>","Only available <for units without [Sneak Attack]>","Only available <for units without [Invulnerability]>"],
+		"prerequisites": ["Mystic Blade"],
+		"unitTypes": ["Sword","Gunpowder"]
+	},
+			{
+		"name": "Ambition",
+		"uniques": ["[+50]% Strength <when attacking>","[-20]% Strength <when defending>","Only available <for units without [Restlessness]>","Only available <for units without [Heroism]>","Only available <for units without [Sneak Attack]>","Only available <for units without [Invulnerability]>"],
+		"prerequisites": ["Mystic Blade"],
+		"unitTypes": ["Sword","Gunpowder"]
+	},
+	{
+		"name": "Homeland Guardian",
+		"uniques": ["[+25]% Strength <when fighting in [Friendly Land] tiles>"]
+	},
+	{
+		"name": "Desert Warrior",
+		"uniques": ["[+50]% Strength <when fighting in [Desert] tiles>"]
+	},
+	{
+		"name": "Altitude Training",
+		"uniques": ["Double movement in [Hill]","[+10]% Strength <when fighting in [Hill] tiles>"]
+	},
+    {
+        "name": "Cradle of Civilizations",
+        "uniques": ["Double movement in [River]"],
+	},
+    {
+        "name": "Steppe Hunter",
+        "uniques": ["Can receive bonus movement promotion"],
+	},
+    {
+        "name": "Horseback Rider",
+        "prerequisites": ["Steppe Hunter"],
+        "uniques": ["[+2] Movement"],
+        "unitTypes": ["Archery"],
+	},
+    {
+        "name": "Pyrrhic Victory",
+        "uniques": ["[+25]% Strength <vs cities> <when attacking>","[-25]% Strength <vs cities> <when defending>"],
+	},
+    {
+        "name": "Favorable Winds",
+        "uniques": ["Can move after attacking"]
+    },	
+	{
+		"name": "Kavkhan",
+		"uniques": ["[+15]% Strength bonus for [Military] units within [2] tiles"]
+	},  
+		{
+		"name": "Crusader",
+		"uniques": ["Can move immediately once bought"]
+	}, 
+	{
+		"name": "[Housecarl] ability",
+		"uniques": ["Double movement in [Snow]","Double movement in [Tundra]","Double movement in [Hill]","Double movement in [Coast]","[+1] Sight <when [Embarked]>"]
+	}, 
+	]
