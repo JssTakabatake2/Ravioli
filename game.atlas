@@ -734,70 +734,70 @@ TileSets/FantasyHex/Tiles/Colossal Head
   index: -1
 TileSets/FantasyHex/Tiles/Desert Plantation
   rotate: false
-  xy: 1942, 982
+  xy: 1884, 444
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Feitoria
   rotate: false
-  xy: 1942, 939
+  xy: 1884, 401
   size: 32, 35
   orig: 32, 35
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Grassland+Jungle+Brazilwood Camp
   rotate: false
-  xy: 1942, 900
+  xy: 1884, 362
   size: 32, 31
   orig: 32, 31
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Kasbah
   rotate: false
-  xy: 1942, 647
+  xy: 1942, 694
   size: 32, 29
   orig: 32, 29
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/King Solomon's Mines
   rotate: false
-  xy: 1924, 569
+  xy: 1942, 616
   size: 32, 34
   orig: 32, 34
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Kurgan
   rotate: false
-  xy: 1924, 533
+  xy: 1924, 580
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Lake Victoria
   rotate: false
-  xy: 1924, 491
+  xy: 1924, 538
   size: 32, 34
   orig: 32, 34
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Mount Kilimanjaro
   rotate: false
-  xy: 1924, 374
+  xy: 1924, 421
   size: 32, 34
   orig: 32, 34
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Sacred altar
   rotate: false
-  xy: 1984, 1720
+  xy: 1932, 201
   size: 32, 31
   orig: 32, 31
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Seaside Stall
   rotate: false
-  xy: 1984, 1684
+  xy: 1932, 165
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
@@ -851,184 +851,177 @@ TileSets/FantasyHex/Units/Coastal Raider
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Comache Riders
-  rotate: false
-  xy: 1942, 1018
-  size: 32, 29
-  orig: 32, 29
-  offset: 0, 0
-  index: -1
 TileSets/FantasyHex/Units/Desert Archer
   rotate: false
-  xy: 1884, 444
+  xy: 1942, 1019
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Dmag Mi
   rotate: false
-  xy: 1884, 408
+  xy: 1942, 983
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Future Infantry
   rotate: false
-  xy: 1884, 372
+  xy: 1942, 947
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Grove Keeper
   rotate: false
-  xy: 1942, 864
+  xy: 1942, 911
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Hand-Axe
   rotate: false
-  xy: 1942, 828
+  xy: 1942, 875
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Heavy Chariot
   rotate: false
-  xy: 1942, 792
+  xy: 1942, 839
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Housecarl
   rotate: false
-  xy: 1942, 756
+  xy: 1942, 803
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Jagunjagun
   rotate: false
-  xy: 1942, 720
+  xy: 1942, 767
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Javelinman
   rotate: false
-  xy: 1942, 684
+  xy: 1942, 731
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Kavkhan
   rotate: false
-  xy: 1942, 611
+  xy: 1942, 658
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Maccabee
   rotate: false
-  xy: 1924, 455
+  xy: 1924, 502
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Mong Dong
   rotate: false
-  xy: 1924, 416
+  xy: 1924, 463
   size: 32, 31
   orig: 32, 31
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Nomadic Archer
   rotate: false
-  xy: 1984, 1904
+  xy: 1924, 385
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Pavise Crossbowman
   rotate: false
-  xy: 1984, 1868
+  xy: 1924, 349
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Phalanx
   rotate: false
-  xy: 1984, 1832
+  xy: 1932, 313
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Ptolemaic Elephant
   rotate: false
-  xy: 1984, 1795
+  xy: 1932, 276
   size: 32, 29
   orig: 32, 29
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Ribault
   rotate: false
-  xy: 1984, 1759
+  xy: 1932, 240
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Serpent Priest
   rotate: false
-  xy: 1984, 1648
+  xy: 1932, 129
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Siege Elephant
   rotate: false
-  xy: 1984, 1612
+  xy: 1984, 1904
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Slave Hunter
   rotate: false
-  xy: 1984, 1576
+  xy: 1984, 1868
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Swiss Guard
   rotate: false
-  xy: 1984, 1540
+  xy: 1984, 1832
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Swiss Guard-Atomic era
   rotate: false
-  xy: 1984, 1504
+  xy: 1984, 1796
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Swiss Guard-Industrial era
   rotate: false
-  xy: 1992, 1468
+  xy: 1984, 1760
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Swiss Guard-Modern era
   rotate: false
-  xy: 1992, 1432
+  xy: 1984, 1724
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Tarantine Cavalry
   rotate: false
-  xy: 1992, 1396
+  xy: 1984, 1688
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
@@ -1096,7 +1089,7 @@ UnitIcons/Coastal Raider
   orig: 200, 200
   offset: 0, 0
   index: -1
-UnitIcons/Comanche Riders
+UnitIcons/Comanche Rider
   rotate: false
   xy: 852, 262
   size: 100, 100

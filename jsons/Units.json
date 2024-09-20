@@ -163,7 +163,7 @@
 		"attackSound": "horse"	
 	},
 	{
-		"name": "Comanche Riders", 
+		"name": "Comanche Rider", 
 		"unitType": "Mounted",
 		"replaces": "Cavalry",
 		"uniqueTo": "Shoshone",
